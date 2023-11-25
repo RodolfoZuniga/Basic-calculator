@@ -9,6 +9,8 @@ def division(a, b):
         return "No se puede dividir entre cero."
     else:
         return a / b
+def multiplicacion(a, b):
+    return a * b
 
     
 def calculadora():
