@@ -1,3 +1,6 @@
+def suma(a, b):
+    return a + b
+    
 def calculadora():
     print("Calculadora básica")
     print("Operaciones disponibles:")
