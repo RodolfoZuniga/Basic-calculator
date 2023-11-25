@@ -4,6 +4,12 @@ def suma(a, b):
 def resta(a, b):
     return a - b
 
+def division(a, b):
+    if b == 0:
+        return "No se puede dividir entre cero."
+    else:
+        return a / b
+
     
 def calculadora():
     print("Calculadora básica")
