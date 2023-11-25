@@ -12,6 +12,9 @@ def division(a, b):
 def multiplicacion(a, b):
     return a * b
 
+def exponencial(a, b):
+    return a ** b
+
     
 def calculadora():
     print("Calculadora básica")
